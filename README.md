@@ -18,6 +18,13 @@ Docker course curriculum on KelasX
 ## Dockerfile, Build and Network Configuration
 ## Docker Commands and Structures
 ## Docker Orchestration Swarm
+## Container Management
+## Docker Security
+## Docker driver and plugins
+
+- Logging plugins
+- Volume plugins
+- Network plugins
 ## Integration and Use Case of Docker
 - Dockerized Python App
 - Dockerized Golang App
